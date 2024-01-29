@@ -1,6 +1,4 @@
-## Aydın Yolcusu
-
-Arama yapılabilir, galeri ile Aydın'ın farklı görsellerine ulaşılabilir, tarihi yerleri, gezilecek yerleri, en iyi yeme içme mekanlarına ulaşılabilir. Anlık hava durumu API'dan çekilerek görülebilir.
+## Aydın Yolcusu-React Native
 
 Bu uygulama, Aydın'ı keşfetmek için kapsamlı bir deneyim sunuyor. Arama özellikleri sayesinde Aydın'ın tarihi ve turistik yerlerini kolayca bulabilir,  görsel galeri ile şehrin farklı noktalarını keşfetme şansını elde edebilir,  en iyi yeme içme mekanlarına dair bilgilere anında ulaşılabilir. Ayrıca, anlık hava durumu bilgilerini API üzerinden çekerek güncel hava durumu görüntülenebilir.
 
